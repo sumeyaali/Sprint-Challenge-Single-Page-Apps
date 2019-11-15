@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: One benefit of Client-side routing is that the whole page won’t refresh, it has very smooth and fast transitions between views. 
 
 ## Project Set Up
 
